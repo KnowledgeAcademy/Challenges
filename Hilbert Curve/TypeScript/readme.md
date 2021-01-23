@@ -5,4 +5,4 @@
  1. call `yarn dev` (starts server)
  1. open [`localhost:3000`](http://localhost:3000) or start __vscode debug__
 
-![example](./images/img.jpg)
+![example](./img.jpg)
